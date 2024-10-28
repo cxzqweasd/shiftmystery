@@ -3,5 +3,5 @@
 "view":"https://www.google.com?",
 "appsChecker":"1",
 "countrycodeCheck":"https://pro.ip-api.com/json/?key=Ip75nPrO8TTHQnS",
-"redirlinkCheck":"https://cauditcommernal.com/7af74368-b850-488d-896e-27eef471b7c1?sub_id1=snapchat&click_id={subid}"
+"redirlinkCheck":"https://traffknights.network/@formav2/?subid={subid}"
 }
